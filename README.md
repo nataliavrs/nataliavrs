@@ -2,7 +2,7 @@
   <a href="#"><img width="300" align='right' style='bordex-box: 10px' src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"></a>
 </p>
 
-## Hey, there. Welcome to my GitHub profile! 👋😄
+## Hey, there. Welcome to my GitHub profile! 😄
 
 - 👩🏻‍💻  &nbsp; My name is Natália Veras. I'm a _Junior Full Stack Web Developer_. Eager to learn, curious and in love with coding! 
 
