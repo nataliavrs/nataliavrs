@@ -1,5 +1,5 @@
 ### Hello, world! 👋  <p>
-  <a href="#"><img width="200" align='right' src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"></a>
+  <a href="#"><img width="300" align='right' src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"></a>
 </p>
 
 My name is Natália Veras. I'm a Junior Full Stack Web Developer. Eager to learn, curious and in love with coding! &hearts;
