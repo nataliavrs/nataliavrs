@@ -1,4 +1,4 @@
-(https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
+[(https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)]
 
 <p align='center'>
 &nbsp;&nbsp;
@@ -6,7 +6,9 @@
 <a href="https://www.linkedin.com/in/nataliaveras/">LinkedIn</a>
 </p>
 
-
+<p>
+  <a href="#"><img width="150" align='right' src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"></a>
+</p>
 
 <p>
   <a href="#"><img width="150" align='right' src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"></a>
