@@ -3,7 +3,6 @@
 </p>
 
 ## Hey, there. Welcome to my GitHub profile! 👋😄
---
 
 - 👩🏻‍💻  &nbsp; My name is Natália Veras. I'm a _Junior Full Stack Web Developer_. Eager to learn, curious and in love with coding! 
 
