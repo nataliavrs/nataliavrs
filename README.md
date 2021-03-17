@@ -5,6 +5,6 @@
 - 🤓 &nbsp;I know how to create stuff with these guys: HTML5, CSS3 (Vanilla & Sass), Bootstrap (3 & 4), JavaScript (ES5 & ES6), jQuery, Vue.js, PHP, MySQL, Laravel, Git and more.
 
 - 📝 &nbsp;Let's get in touch: <a href="https://www.instagram.com/nataliavrs/">Instagram</a> | <a href="https://www.linkedin.com/in/nataliaveras/">LinkedIn</a>
-- 
-stats) |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs&theme=shades-of-purple&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavrs&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs&theme=shades-of-purple&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavrs&theme=shades-of-purple)]
