@@ -10,4 +10,4 @@
 
 - 📝 &nbsp;Let's get in touch: <a href="https://www.instagram.com/nataliavrs/">Instagram</a> | <a href="https://www.linkedin.com/in/nataliaveras/">LinkedIn</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs)](https://github.com/anuraghazra/github-readme-stats)
