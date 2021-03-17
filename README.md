@@ -6,10 +6,5 @@
 
 - 📝 &nbsp;Let's get in touch: <a href="https://www.instagram.com/nataliavrs/">Instagram</a> | <a href="https://www.linkedin.com/in/nataliaveras/">LinkedIn</a>
 
-
-
-
-
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavrs&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs&theme=shades-of-purple&show_icons=true&count_private=true)
