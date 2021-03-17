@@ -1,7 +1,3 @@
-
-  <a href="#"><img width="300" align='right' src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"></a>
-
-
 ### Hey, there. Welcome to my GitHub profile! 😄
 
 - 👩🏻‍💻  &nbsp;My name is Natália Veras. I'm a _Junior Full Stack Web Developer_. Eager to learn, curious and in love with coding! 
@@ -11,3 +7,5 @@
 - 📝 &nbsp;Let's get in touch: <a href="https://www.instagram.com/nataliavrs/">Instagram</a> | <a href="https://www.linkedin.com/in/nataliaveras/">LinkedIn</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavrs)](https://github.com/anuraghazra/github-readme-stats)
+
