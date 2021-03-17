@@ -1,6 +1,6 @@
 ### Hey, there. Welcome to my GitHub profile! 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs&theme=shades-of-purple&show_icons=true&count_private=true)
+
 
 - 👩🏻‍💻  &nbsp;My name is Natália Veras. I'm a _Junior Full Stack Web Developer_. Eager to learn, curious and in love with coding! 
 
@@ -10,3 +10,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavrs&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavrs&theme=shades-of-purple&show_icons=true&count_private=true)
